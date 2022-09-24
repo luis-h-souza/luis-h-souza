@@ -17,8 +17,7 @@ Moro em Limeira, interior de São Paulo 🏡
 - CSS
 - JavaScript
 
-
 ### Meus contatos 📫
 
 - Linkedln: https://www.linkedin.com/in/luis-h-souza/
-- E-amil: luis.h.souza@outlook.com.br
+- E-mail: luis.h.souza@outlook.com.br
