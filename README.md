@@ -3,7 +3,7 @@
 Olá, meu nome é Luis Henrique 🤙, aluno dos cursos da Staart e OneBitCode.
 Moro em Limeira, interior de São Paulo 🏡
 
-![FB_IMG_1641651440209](https://user-images.githubusercontent.com/104087814/192121011-3b8bf388-e715-4c85-be0e-b98ea62def2c.jpg)
+![PhotoFunia-1664066814](https://user-images.githubusercontent.com/104087814/192123636-3ba11e89-4b5d-432d-9096-540155b8cebd.jpg)
 
 ### Hobbies 🎮
 
