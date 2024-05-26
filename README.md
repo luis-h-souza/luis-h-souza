@@ -1,27 +1,41 @@
-## Sejam muito bem-vindos(a) ao meu perfil !!!
+## Sejam muito bem-vindos(a) !!!
+</hr>
 
-Meu nome é Luis Henrique, sou nascido e criado em uma cidade do interior de São Paulo chamada Limeira. Sou o caçula de três filhos da dona Rosa e do seu Sérgio.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Trabalho desde meus dezenove anos sempre voltado na área elétrica/eletrônica e também outras áreas no momento. Nesses anos de jornada entendi a como sobreviver a todas as inovações que o mundo vem nos proporcionando e não ficar para trás, uma delas é a que considero a mais importante em qualquer área de atuação, é de ser o mais curioso possível sobre tudo, pois essa atitude pôde gerar meu desenvolvimento pessoal e técnico.
+<p align="left">
+  Meu nome é Luis Henrique, nascido e criado em uma cidade do interior de São Paulo. Trabalho na área elétrica/eletrônica desde os dezenove anos e acredito que a curiosidade é essencial para o desenvolvimento pessoal e técnico em qualquer área.
 
-Minha identificação com a tecnologia foi desde quando comecei a pensar em como me veria a daqui a alguns anos mais a frente, foi quando comecei com as clássicas aulas de informática. Pouco tempo depois tivemos contato com nosso primeiro computador em casa, um celeron 600... tempos bons...
-Mais a frente decidi por entrar na área elétrica, foi quando cursei em uma escola técnica o curso de eletroeletrônica. Ali conheci a lógica de programação, nesse caso a linguagem ladder que é voltada a automação industrial, os CLPs (Controladores Lógicos Programáveis). Fiquei fascinado com as aplicações que é possível com esta tecnologia, não só pelas soluções mas principalmente pelo fato de tudo funcionar a partir de uma lógica escrita numa linguagem específica.
+Minha admiração pela tecnologia começou na infância, quando tive contato com o primeiro computador em casa. Mais tarde decidi cursar eletroeletrônica em uma escola técnica, onde conheci a lógica de programação. Recentemente decidi aprofundar meus conhecimentos em desenvolvimento web, estudando <b>HTML5, CSS3 e JAVASCRIPT.</b> Estou fazendo um curso técnico voltado para essa área com foco no Frontend, Backend e Mobile e estou fascinado com tudo o que venho aprendendo.
 
-Recentemente essa paixão adormecida pelo mundo tech foi revigorada e decidi me permitir conhecer esse mundo tão incrível mais a fundo. Venho estudando sobre HTML5, CSS3 e JAVASCRIPT, "a tríade" como costuma chamar. O curso que venho fazendo ainda tem vários capitulos a serem desbravados, ele é voltado ao desenvolvedor fullstack, com enfase no desenvolvimento web em JavaScript. Ainda tenho alguns capítulos a serem percorridos, mas desde já estou fascinado com tudo que venho aprendendo. Meu objetivo aqui é passar por esta ponte e concretizar esta transição de carreira.
+Meu objetivo é concretizar este curso e inicariar minha transição de carreira para seguir nesse mundo incrível da tecnologia. Estou animado com os próximos capítulos a serem desbravados e confiante no meu futuro nessa área.
 
+</p>
 
-### Hobbies 🎮
+<p align="left">
+  <a href="#" title="HTML5">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+  <a href="#" title="CSS3">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+  <a href="#" title="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+  <a href="#" title="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+</p>
 
-- Passear com meus cachorros
-- Jogar futebol
+<p align="left">
+  💌 Para me encontrar: ⤵️
+</p>
 
-### Atualmente estudando 👨‍🎓
-
-- HTML
-- CSS
-- JavaScript
-
-### Meus contatos 📫
-
-- Linkedln: https://www.linkedin.com/in/luis-h-souza/
-- E-mail: luis.h.souza@outlook.com.br
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/luis-h-souza" alt="Github"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-h-souza/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5519988081357?text=" alt="WhatsApp"/></a>
+  <a href="#" title="Outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=https://criarmeulink.com.br/u/1716730275" alt="Outlook e-mail"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/picko_lhs/" alt="Instagram"/></a>
+</p>
