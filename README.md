@@ -24,6 +24,14 @@ Meu objetivo é concretizar este curso e inicariar minha transição de carreira
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
   <a href="#" title="Bootstrap">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+  <a href="#" title="React">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="#" title="PHP">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="#" title="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#" title="React Native">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 </p>
 
 <br/>
@@ -38,7 +46,7 @@ Meu objetivo é concretizar este curso e inicariar minha transição de carreira
   <a href="https://github.com/luis-h-souza" _blank title="luis-h-souza">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/luis-h-souza" alt="Github"/></a>
   
-  <a href="https://www.linkedin.com/in/luis-h-souza/" title="luis-h-souza">
+  <a href="https://www.linkedin.com/in/luis-h-souza/" _blank title="luis-h-souza">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-h-souza/" alt="LinkedIn"/></a>
   
   <a href="https://wa.me/5519988081357?text=" title="5519988081357">
