@@ -16,22 +16,9 @@ Meu objetivo é concretizar este curso e inicariar minha transição de carreira
 </hr>
 
 <p align="left">
-  <a href="#" title="HTML5">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-  <a href="#" title="CSS3">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-  <a href="#" title="JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-  <a href="#" title="Bootstrap">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-  <a href="#" title="React">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="#" title="PHP">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  <a href="#" title="MySQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#" title="React Native">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql)](https://skillicons.dev)
+  
 </p>
 
 <br/>
