@@ -17,7 +17,7 @@ Meu objetivo é concretizar este curso e inicariar minha transição de carreira
 
 <p align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,laravel)](https://skillicons.dev)
   
 </p>
 
