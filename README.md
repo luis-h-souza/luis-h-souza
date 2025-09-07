@@ -1,32 +1,47 @@
-## Sejam muito bem-vindos(a) !!!
+# Olá, eu sou o Luis Henrique
 </hr>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Meu nome é Luis Henrique, nascido e criado em uma cidade do interior de São Paulo. Trabalho na área elétrica/eletrônica desde os dezenove anos e acredito que a curiosidade é essencial para o desenvolvimento pessoal e técnico em qualquer área.
-
-Minha admiração pela tecnologia começou na infância, quando tive contato com o primeiro computador em casa. Mais tarde decidi cursar eletroeletrônica em uma escola técnica, onde conheci a lógica de programação. Recentemente decidi aprofundar meus conhecimentos em desenvolvimento web, estudando <b>HTML5, CSS3 e JAVASCRIPT.</b> Estou fazendo um curso técnico voltado para essa área com foco no Frontend, Backend e Mobile e estou fascinado com tudo o que venho aprendendo.
-
-Meu objetivo é concretizar este curso e inicariar minha transição de carreira para seguir nesse mundo incrível da tecnologia. Estou animado com os próximos capítulos a serem desbravados e confiante no meu futuro nessa área.
+</br></br></br>
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a1.svg" width="20"/> Apaixonado por tecnologia desde a infância, quando tive meu primeiro contato com um computador em casa.  
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26a1.svg" width="20"/> Atuei na área de manutenção elétrica por vários anos, mas decidi seguir meu coração e concluir minha transição para o <b>desenvolvimento web.</b>
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f393.svg" width="20"/> Finalizei um curso técnico em <b>Desenvolvimento Web</b> com foco em <b>Frontend, Backend e Mobile</b> e sigo me aprofundando nos estudos em busca da minha primeira oportunidade como desenvolvedor.
 </p>
+</br></br>
 
-
-## 💼 Minhas Skills
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="24"/> Tecnologias e Ferramentas
 </hr>
 
-<p align="left">
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f310.svg" width="24"/> Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,laravel)](https://skillicons.dev)
-  
-</p>
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2699.svg" width="24"/> Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel)](https://skillicons.dev)
 
-<br/>
-<a href="https://github.com/luis-h-souza" title="Perfil do Luis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-h-souza&theme=tokyonight&show_icons=true" />
-</a>
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c4.svg" width="24"/> Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
-## 💌 Para me encontrar: ⤵️
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4f1.svg" width="24"/> Mobile
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="24"/> Versionamento
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+</br>
+
+## Sobre mim
+</hr>
+
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f50d.svg" width="20"/> Curioso por natureza, sempre buscando aprender coisas novas 
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4da.svg" width="20"/> Focado em desenvolvimento <b>Fullstack</b>  
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a1.svg" width="20"/> Tenho interesse em <b>boas práticas e metodologias ágeis</b>  
+- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3af.svg" width="20"/> Objetivo: conquistar minha primeira vaga como desenvolvedor
+
+</br>
+    
+## Para me encontrar: ⤵️
 </hr>
 
 <p align="left">
@@ -40,5 +55,8 @@ Meu objetivo é concretizar este curso e inicariar minha transição de carreira
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5519988081357?text=" alt="WhatsApp"/></a>
   
   <a href="https://criarmeulink.com.br/u/1716733007" title="luis.h.souza@outlook.com.br">
-  <img src="https://img.shields.io/badge/luis.h.souza@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luis.h.souza@outlook.com.br" alt="Outlook e-mail"/></a>  
-  
+  <img src="https://img.shields.io/badge/luis.h.souza@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luis.h.souza@outlook.com.br" alt="Outlook e-mail"/></a>
+
+</br></br>
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg" width="20"/> Estou aberto a <b>conexões, colaborações e novas oportunidades !</b>
+
